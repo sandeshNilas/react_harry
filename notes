@@ -1,0 +1,19 @@
+npm is a package manager like pip in python.
+
+aaba khaile khai package lai download na gari use matra garne ho bhane tyo bela ma one time run one time use garda hunxa
+
+
+commands in npm
+
+	- npm start 
+		starts the development server.
+	
+	-npx create-react-app appname
+		to create the react app
+
+Jsx(Javascript syntax extension):
+	-yesle chai dynamic data lai app ma use garna dinxa or say
+	help garxa
+	
+hami le sabai return lai wrap garnai parxa yedi kei ma ne wrap na garye <></> tag ma wrap garnai parxa
+
